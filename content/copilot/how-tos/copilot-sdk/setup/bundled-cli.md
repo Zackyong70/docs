@@ -1,3 +1,4 @@
+https://github.com/github/copilot-sdk/tree/main/nodejs/README.md#prerequisites
 ---
 title: Default setup (bundled CLI)
 shortTitle: Bundled CLI
